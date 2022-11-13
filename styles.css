@@ -93,3 +93,131 @@ span{
 .images:hover .Avatar{
     left: 45%;
 }
+
+.further{
+    background-color: black;
+}
+
+.further h1{
+    font-size: 50px;
+    color:aliceblue;
+    margin-bottom: 20px;
+    padding-top: 80px;
+}
+
+.further span{
+    margin-top: 80px;
+    color:aqua;
+    font-style:normal;
+    margin: 30px 30px;
+    text-decoration: underline;
+    text-decoration-color: peru;
+}
+
+.further p{
+    color: wheat;
+
+}
+
+.further1{
+    background-color: black;    
+}
+
+.further1 ul{
+    color: aliceblue;
+}
+
+.further1 h1{
+    font-size: 50px;
+    color:aliceblue;
+    margin-bottom: 20px;
+    padding-top: 80px;
+}
+
+.further1 span{
+    margin-top: 80px;
+    color:aqua;
+    font-style:normal;
+    margin: 30px 30px;
+    text-decoration: underline;
+    text-decoration-color: peru;  
+}
+
+.further2{
+    background-color: black;
+}
+
+.further2 h1{
+    font-size: 50px;
+    color:aliceblue;
+    margin-bottom: 20px;
+    padding-top: 80px;
+}
+
+.further2 span{
+    margin-top: 80px;
+    color:aqua;
+    font-style:normal;
+    margin: 30px 30px;
+    text-decoration: underline;
+    text-decoration-color: peru;  
+}
+
+.further2 .box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.further2 .box .dream{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.further2 .box .dream img{
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.further3{
+    background-color: black; 
+}
+
+.further3 ul{
+    color: aliceblue;
+}
+
+.further3 h1{
+    font-size: 50px;
+    color:aliceblue;
+    margin-bottom: 20px;
+    padding-top: 80px;
+}
+
+.further3 span{
+    margin-top: 80px;
+    color:aqua;
+    font-style:normal;
+    margin: 30px 30px;
+    text-decoration: underline;
+    text-decoration-color: peru;  
+}
+
+.container mt-3 contactContent h1{
+    font-size: 50px;
+    color:aliceblue;
+    margin-bottom: 20px;
+    padding-top: 80px;
+}
+
+.container mt-3 contactContent span{
+    color:aqua;
+    font-style:normal;
+    margin: 30px 30px;
+    text-decoration: underline;
+    text-decoration-color: peru;
+}
